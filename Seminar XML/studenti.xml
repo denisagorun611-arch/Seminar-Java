@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Lista de studenti - generata cu DOM/JAXP --><studenti>
+    <student id="1">
+        <nume>Ionescu</nume>
+        <prenume>Ana</prenume>
+        <specializare>Informatica</specializare>
+        <medie>9.75</medie>
+    </student>
+    <student id="2">
+        <nume>Popescu</nume>
+        <prenume>Mihai</prenume>
+        <specializare>Cibernetica</specializare>
+        <medie>8.5</medie>
+    </student>
+    <student id="3">
+        <nume>Georgescu</nume>
+        <prenume>Elena</prenume>
+        <specializare>Informatica</specializare>
+        <medie>10.0</medie>
+    </student>
+    <student id="4">
+        <nume>Constantin</nume>
+        <prenume>Andrei</prenume>
+        <specializare>Statistica</specializare>
+        <medie>7.8</medie>
+    </student>
+</studenti>
